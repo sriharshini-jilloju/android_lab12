@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CityTouristGuide</string>
+    <string name="recenter_map">Recenter Map</string>
+</resources>
